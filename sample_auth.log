@@ -1,0 +1,11 @@
+Jul 20 09:12:01 webserver sshd[1023]: Failed password for invalid user admin from 203.0.113.45 port 51122 ssh2
+Jul 20 09:12:04 webserver sshd[1024]: Failed password for invalid user admin from 203.0.113.45 port 51124 ssh2
+Jul 20 09:12:08 webserver sshd[1025]: Failed password for root from 203.0.113.45 port 51126 ssh2
+Jul 20 09:12:12 webserver sshd[1026]: Failed password for root from 203.0.113.45 port 51128 ssh2
+Jul 20 09:12:16 webserver sshd[1027]: Failed password for root from 203.0.113.45 port 51130 ssh2
+Jul 20 09:12:20 webserver sshd[1028]: Failed password for invalid user test from 203.0.113.45 port 51132 ssh2
+Jul 20 09:12:25 webserver sshd[1029]: Accepted password for root from 203.0.113.45 port 51134 ssh2
+Jul 20 10:01:00 webserver sshd[1050]: Accepted password for cchristopher from 198.51.100.20 port 44210 ssh2
+Jul 20 11:15:33 webserver sshd[1080]: Failed password for invalid user oracle from 192.0.2.77 port 33210 ssh2
+Jul 20 11:15:40 webserver sshd[1081]: Failed password for invalid user oracle from 192.0.2.77 port 33212 ssh2
+Jul 20 14:22:10 webserver sshd[1100]: Accepted password for deploy from 198.51.100.20 port 55012 ssh2
